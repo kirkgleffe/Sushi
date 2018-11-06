@@ -1,0 +1,5 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "main": ["./js/libs/gumby.min.js", "./css/style.css"]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "sushi",
+    "description": "Brand Styleguide and Pattern Library framework.",
+    "keywords": ["sushi", "html", "css", "css", "gleffe"],
+    "homepage": "http://sushi.gleffe.com/",
+    "license": "open",
+    "authors" : [
+        {
+            "name": "Kirk Gleffe",
+            "email": "kirk@gleffe.com",
+            "homepage": "http://sushi.gleffe.com"   
+        }
+    ],
+    "support": {
+    	"issues": "http://gleffe.com",
+    	"source": "http://gleffe.com",
+    	"forum": "http://gleffe.com"
+    }
+}
