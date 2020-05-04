@@ -10,13 +10,9 @@ Sushi is developed with love by [Kirk Gleffe](http://sushi.gleffe.com).
 
 Sushi has a few dependencies. Huge thank you to the innovative geniuses behind these amazing technologies.
 
-- [GumbyJS](https://gumbyframework.com/) - Adam Chambers, Digital Surgeons
-- [Fontawesome](https://fontawesome.com/v4.7.0/icons/)
+- [Gumby](https://gumbyframework.com/)
 - [jQuery](http://jquery.com/)
 - [Modernizr](http://modernizr.com/)
-- [Cycle2](http://jquery.malsup.com/cycle2/)
-- [FitText](http://fittextjs.com/)
-- [Prism](https://prismjs.com/#credits)
 
 **MIT Open Source License**
 
